@@ -55,7 +55,7 @@ A Power BI dashboard analyzing **$29.36M in sales** and **60K orders** for Adven
 ---
 
 ## 📸 Dashboard Preview
-![Adventure Works Sales Dashboard](1780741122805_image.png)
+![Adventure Works Sales Dashboard](https://github.com/Shaunak2829/Adventure-Works-Sales-Dashboard-Power-BI/blob/main/Adventure%20Works%20.png)
 
 ---
 *Built as part of a data analytics portfolio project. Dataset sourced from Kaggle / Microsoft Adventure Works sample data.*
